@@ -19,7 +19,7 @@ https://github.com/BobbyZhouZijian/CVWO-inprogress
 
 - Ruby On Rails
 
-![iamges/rails.png]
+![](images/rails.png)
 
 
 
@@ -27,7 +27,7 @@ https://github.com/BobbyZhouZijian/CVWO-inprogress
 
 - Heroku
 
-![images/heroku.png]
+![](images/heroku.png)
 
 ### Gems
 
@@ -38,4 +38,4 @@ https://github.com/BobbyZhouZijian/CVWO-inprogress
 
 - development: sqlite     production: portgresql
 
-![images/sqlite.png]  ![images/portgresql]
+![](images/sqlite.png)  ![](images/portgresql)
