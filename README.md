@@ -1,4 +1,4 @@
-# Zijian's CVWO Repository
+# Zijian's CVWO API Repository
 
 
 ## About This Api
@@ -36,6 +36,9 @@ https://github.com/BobbyZhouZijian/CVWO-inprogress
 
 ### Database
 
-- development: sqlite     production: portgresql
+- development: sqlite    
+- production: portgresql
 
-![](images/sqlite.png)  ![](images/portgresql)
+![](images/sqlite.png) 
+
+![](images/portgresql)
