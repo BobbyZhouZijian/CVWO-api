@@ -41,4 +41,4 @@ https://github.com/BobbyZhouZijian/CVWO-inprogress
 
 ![](images/sqlite.png) 
 
-![](images/portgresql)
+![](images/portgresql.png)
