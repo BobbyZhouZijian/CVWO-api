@@ -1,19 +1,41 @@
 # Zijian's CVWO Repository
 
 
+## About This Api
 
-Name:
+- Author
+```sh
+Zhou Zijian
+```
 
-<code>Zhou Zijian</code>
+- Project Repository
+```sh
+https://github.com/BobbyZhouZijian/CVWO-inprogress
+```
 
-Matric Number: 
+## Tools
 
-<code>A0205315U</code>
+### Framework
 
-GitHub Repository
+- Ruby On Rails
 
-<code>https://github.com/BobbyZhouZijian/CVWO-inprogress</code>
+![iamges/rails.png]
 
-Heroku Address
 
-<code>http://cvwo-zijian.herokuapp.com/</code>
+
+### Deployment
+
+- Heroku
+
+![images/heroku.png]
+
+### Gems
+
+- bycrypt
+- rack-cors
+
+### Database
+
+- development: sqlite     production: portgresql
+
+![images/sqlite.png]  ![images/portgresql]
