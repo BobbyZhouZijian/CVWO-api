@@ -10,7 +10,7 @@ Zhou Zijian
 
 - Project Repository
 ```sh
-https://github.com/BobbyZhouZijian/CVWO-inprogress
+https://github.com/BobbyZhouZijian/CVWO-final
 ```
 
 ## Tools
